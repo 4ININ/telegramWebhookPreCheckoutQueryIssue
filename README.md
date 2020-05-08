@@ -1,7 +1,10 @@
 # telegramWebhookPreCheckoutQueryIssue
 
-To reproduce the problem i modificate BotBuilder-Samples from github : https://github.com/microsoft/BotBuilder-Samples/tree/master/samples/csharp_dotnetcore/02.echo-bot this is asp core project 
+To reproduce the problem i modificate BotBuilder-Samples from github : 
+https://github.com/microsoft/BotBuilder-Samples/tree/master/samples/csharp_dotnetcore/02.echo-bot this is asp core project 
+
 My modificated github project link :
+https://github.com/4ININ/telegramWebhookPreCheckoutQueryIssue
 
 
 Some helpful link for understanding problem
