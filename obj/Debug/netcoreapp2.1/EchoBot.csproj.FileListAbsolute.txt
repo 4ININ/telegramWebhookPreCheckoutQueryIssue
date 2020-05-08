@@ -1,0 +1,16 @@
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.deps.json
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.runtimeconfig.json
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.runtimeconfig.dev.json
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.dll
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.pdb
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.csprojAssemblyReference.cache
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.RazorAssemblyInfo.cache
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.RazorAssemblyInfo.cs
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.AssemblyInfoInputs.cache
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.AssemblyInfo.cs
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.RazorTargetAssemblyInfo.cache
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.dll
+F:\Programming\Test\ChatBotTest\botbuilder-samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.pdb

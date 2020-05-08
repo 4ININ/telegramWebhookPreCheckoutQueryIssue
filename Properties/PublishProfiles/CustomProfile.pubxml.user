@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://unllotobot.top</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>12/13/2019 12:49:36</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/29/2020 13:40:27</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/new-rg-parameters.json">
+      <publishTime>12/13/2019 12:49:36</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/preexisting-rg-parameters.json">
+      <publishTime>12/13/2019 12:49:36</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/template-with-new-rg.json">
+      <publishTime>12/13/2019 12:49:36</publishTime>
+    </File>
+    <File Include="DeploymentTemplates/template-with-preexisting-rg.json">
+      <publishTime>12/13/2019 12:49:36</publishTime>
+    </File>
+    <File Include="EchoBot.deps.json">
+      <publishTime>04/29/2020 14:00:56</publishTime>
+    </File>
+    <File Include="EchoBot.dll">
+      <publishTime>04/29/2020 14:00:56</publishTime>
+    </File>
+    <File Include="EchoBot.pdb">
+      <publishTime>04/29/2020 14:00:56</publishTime>
+    </File>
+    <File Include="EchoBot.runtimeconfig.json">
+      <publishTime>04/29/2020 13:12:55</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.dll">
+      <publishTime>11/14/2019 16:46:42</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Builder.Integration.AspNet.Core.dll">
+      <publishTime>11/14/2019 16:46:42</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Configuration.dll">
+      <publishTime>11/14/2019 16:46:44</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Connector.dll">
+      <publishTime>11/14/2019 16:46:42</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Schema.dll">
+      <publishTime>11/14/2019 16:46:44</publishTime>
+    </File>
+    <File Include="Microsoft.Bot.Streaming.dll">
+      <publishTime>11/14/2019 16:46:42</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Clients.ActiveDirectory.dll">
+      <publishTime>06/12/2019 15:02:42</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>02/08/2018 22:16:40</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>02/08/2018 22:17:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>02/08/2018 22:17:16</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>02/08/2018 22:16:44</publishTime>
+    </File>
+    <File Include="Microsoft.Rest.ClientRuntime.dll">
+      <publishTime>02/27/2019 20:49:20</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>02/08/2018 22:16:52</publishTime>
+    </File>
+    <File Include="Telegram.Bot.dll">
+      <publishTime>04/02/2020 12:11:54</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/29/2020 14:00:56</publishTime>
+    </File>
+    <File Include="wwwroot/debug.log">
+      <publishTime>04/29/2020 13:36:26</publishTime>
+    </File>
+    <File Include="wwwroot/default.htm">
+      <publishTime>12/12/2019 19:08:32</publishTime>
+    </File>
+    <File Include="wwwroot/default.html">
+      <publishTime>12/13/2019 12:49:36</publishTime>
+    </File>
+    <File Include="wwwroot/images/back_1.png">
+      <publishTime>10/21/2019 13:15:37</publishTime>
+    </File>
+    <File Include="wwwroot/images/botlogo.png">
+      <publishTime>10/21/2019 13:15:37</publishTime>
+    </File>
+    <File Include="wwwroot/images/keno_big.png">
+      <publishTime>10/21/2019 13:15:37</publishTime>
+    </File>
+    <File Include="wwwroot/images/keno_small.png">
+      <publishTime>10/21/2019 13:15:37</publishTime>
+    </File>
+    <File Include="wwwroot/images/lotomaxima.png">
+      <publishTime>10/21/2019 13:15:37</publishTime>
+    </File>
+    <File Include="wwwroot/images/small_superloto.png">
+      <publishTime>10/21/2019 13:15:37</publishTime>
+    </File>
+    <File Include="wwwroot/images/superloto.png">
+      <publishTime>10/21/2019 13:15:37</publishTime>
+    </File>
+    <File Include="wwwroot/images/welcome.png">
+      <publishTime>10/21/2019 13:15:37</publishTime>
+    </File>
+    <File Include="wwwroot/index.html">
+      <publishTime>12/12/2019 16:56:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
